@@ -4,4 +4,4 @@
 
 ### This repository contains my journey through most intersting, difficult, confused, irrited but amazing computer networks and cyber security at present i haven't started my journey towards hacking.
 
-``` Currently in paused state ```
+```currently in paused state will be resumed soon ```
